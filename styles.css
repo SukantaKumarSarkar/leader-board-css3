@@ -71,6 +71,7 @@
     
     .blog {
         display: flex;
+        align-items: center;
     }
     
     .blog .thumbnail img {
